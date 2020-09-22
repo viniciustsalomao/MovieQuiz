@@ -13,6 +13,31 @@
 		DD42B788251962B6006B8FFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD42B786251962B6006B8FFB /* Main.storyboard */; };
 		DD42B78A251962BB006B8FFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD42B789251962BB006B8FFB /* Assets.xcassets */; };
 		DD42B78D251962BB006B8FFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD42B78B251962BB006B8FFB /* LaunchScreen.storyboard */; };
+		DD42B7C32519632F006B8FFB /* MarchaImperial.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79B25196322006B8FFB /* MarchaImperial.mp3 */; };
+		DD42B7C42519632F006B8FFB /* options.json in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79D25196322006B8FFB /* options.json */; };
+		DD42B7C52519632F006B8FFB /* quizes.json in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A525196323006B8FFB /* quizes.json */; };
+		DD42B7C62519632F006B8FFB /* quote1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A725196323006B8FFB /* quote1.mp3 */; };
+		DD42B7C72519632F006B8FFB /* quote2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A625196323006B8FFB /* quote2.mp3 */; };
+		DD42B7C82519632F006B8FFB /* quote3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A025196322006B8FFB /* quote3.mp3 */; };
+		DD42B7C92519632F006B8FFB /* quote4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79E25196322006B8FFB /* quote4.mp3 */; };
+		DD42B7CA2519632F006B8FFB /* quote5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A825196323006B8FFB /* quote5.mp3 */; };
+		DD42B7CB2519632F006B8FFB /* quote6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79925196322006B8FFB /* quote6.mp3 */; };
+		DD42B7CC2519632F006B8FFB /* quote7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A425196322006B8FFB /* quote7.mp3 */; };
+		DD42B7CD2519632F006B8FFB /* quote8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7AB25196323006B8FFB /* quote8.mp3 */; };
+		DD42B7CE2519632F006B8FFB /* quote9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79625196322006B8FFB /* quote9.mp3 */; };
+		DD42B7CF2519632F006B8FFB /* quote10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A225196322006B8FFB /* quote10.mp3 */; };
+		DD42B7D02519632F006B8FFB /* quote11.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79A25196322006B8FFB /* quote11.mp3 */; };
+		DD42B7D12519632F006B8FFB /* quote12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79725196322006B8FFB /* quote12.mp3 */; };
+		DD42B7D22519632F006B8FFB /* quote13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A925196323006B8FFB /* quote13.mp3 */; };
+		DD42B7D32519632F006B8FFB /* quote14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79825196322006B8FFB /* quote14.mp3 */; };
+		DD42B7D42519632F006B8FFB /* quote15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79C25196322006B8FFB /* quote15.mp3 */; };
+		DD42B7D52519632F006B8FFB /* quote16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7AA25196323006B8FFB /* quote16.mp3 */; };
+		DD42B7D62519632F006B8FFB /* quote17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A125196322006B8FFB /* quote17.mp3 */; };
+		DD42B7D72519632F006B8FFB /* quote18.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79F25196322006B8FFB /* quote18.mp3 */; };
+		DD42B7D82519632F006B8FFB /* quote19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B7A325196322006B8FFB /* quote19.mp3 */; };
+		DD42B7D92519632F006B8FFB /* quote20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD42B79525196322006B8FFB /* quote20.mp3 */; };
+		DD42B7DB25196C7D006B8FFB /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD42B7DA25196C7D006B8FFB /* GameOverViewController.swift */; };
+		DD42B7DD25196E86006B8FFB /* QuizManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD42B7DC25196E86006B8FFB /* QuizManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +49,31 @@
 		DD42B789251962BB006B8FFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD42B78C251962BB006B8FFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD42B78E251962BC006B8FFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD42B79525196322006B8FFB /* quote20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote20.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote20.mp3"; sourceTree = "<group>"; };
+		DD42B79625196322006B8FFB /* quote9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote9.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote9.mp3"; sourceTree = "<group>"; };
+		DD42B79725196322006B8FFB /* quote12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote12.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote12.mp3"; sourceTree = "<group>"; };
+		DD42B79825196322006B8FFB /* quote14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote14.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote14.mp3"; sourceTree = "<group>"; };
+		DD42B79925196322006B8FFB /* quote6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote6.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote6.mp3"; sourceTree = "<group>"; };
+		DD42B79A25196322006B8FFB /* quote11.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote11.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote11.mp3"; sourceTree = "<group>"; };
+		DD42B79B25196322006B8FFB /* MarchaImperial.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MarchaImperial.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/MarchaImperial.mp3"; sourceTree = "<group>"; };
+		DD42B79C25196322006B8FFB /* quote15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote15.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote15.mp3"; sourceTree = "<group>"; };
+		DD42B79D25196322006B8FFB /* options.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = options.json; path = "../../../recursos/Arquivos MovieQuiz/Files/options.json"; sourceTree = "<group>"; };
+		DD42B79E25196322006B8FFB /* quote4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote4.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote4.mp3"; sourceTree = "<group>"; };
+		DD42B79F25196322006B8FFB /* quote18.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote18.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote18.mp3"; sourceTree = "<group>"; };
+		DD42B7A025196322006B8FFB /* quote3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote3.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote3.mp3"; sourceTree = "<group>"; };
+		DD42B7A125196322006B8FFB /* quote17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote17.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote17.mp3"; sourceTree = "<group>"; };
+		DD42B7A225196322006B8FFB /* quote10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote10.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote10.mp3"; sourceTree = "<group>"; };
+		DD42B7A325196322006B8FFB /* quote19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote19.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote19.mp3"; sourceTree = "<group>"; };
+		DD42B7A425196322006B8FFB /* quote7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote7.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote7.mp3"; sourceTree = "<group>"; };
+		DD42B7A525196323006B8FFB /* quizes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = quizes.json; path = "../../../recursos/Arquivos MovieQuiz/Files/quizes.json"; sourceTree = "<group>"; };
+		DD42B7A625196323006B8FFB /* quote2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote2.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote2.mp3"; sourceTree = "<group>"; };
+		DD42B7A725196323006B8FFB /* quote1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote1.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote1.mp3"; sourceTree = "<group>"; };
+		DD42B7A825196323006B8FFB /* quote5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote5.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote5.mp3"; sourceTree = "<group>"; };
+		DD42B7A925196323006B8FFB /* quote13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote13.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote13.mp3"; sourceTree = "<group>"; };
+		DD42B7AA25196323006B8FFB /* quote16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote16.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote16.mp3"; sourceTree = "<group>"; };
+		DD42B7AB25196323006B8FFB /* quote8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = quote8.mp3; path = "../../../recursos/Arquivos MovieQuiz/Files/quote8.mp3"; sourceTree = "<group>"; };
+		DD42B7DA25196C7D006B8FFB /* GameOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
+		DD42B7DC25196E86006B8FFB /* QuizManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +108,46 @@
 			children = (
 				DD42B780251962B6006B8FFB /* AppDelegate.swift */,
 				DD42B782251962B6006B8FFB /* SceneDelegate.swift */,
+				DD42B79425196304006B8FFB /* Files */,
 				DD42B784251962B6006B8FFB /* ViewController.swift */,
+				DD42B7DA25196C7D006B8FFB /* GameOverViewController.swift */,
+				DD42B7DC25196E86006B8FFB /* QuizManager.swift */,
 				DD42B786251962B6006B8FFB /* Main.storyboard */,
 				DD42B789251962BB006B8FFB /* Assets.xcassets */,
 				DD42B78B251962BB006B8FFB /* LaunchScreen.storyboard */,
 				DD42B78E251962BC006B8FFB /* Info.plist */,
 			);
 			path = MovieQuiz;
+			sourceTree = "<group>";
+		};
+		DD42B79425196304006B8FFB /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				DD42B79B25196322006B8FFB /* MarchaImperial.mp3 */,
+				DD42B79D25196322006B8FFB /* options.json */,
+				DD42B7A525196323006B8FFB /* quizes.json */,
+				DD42B7A725196323006B8FFB /* quote1.mp3 */,
+				DD42B7A625196323006B8FFB /* quote2.mp3 */,
+				DD42B7A025196322006B8FFB /* quote3.mp3 */,
+				DD42B79E25196322006B8FFB /* quote4.mp3 */,
+				DD42B7A825196323006B8FFB /* quote5.mp3 */,
+				DD42B79925196322006B8FFB /* quote6.mp3 */,
+				DD42B7A425196322006B8FFB /* quote7.mp3 */,
+				DD42B7AB25196323006B8FFB /* quote8.mp3 */,
+				DD42B79625196322006B8FFB /* quote9.mp3 */,
+				DD42B7A225196322006B8FFB /* quote10.mp3 */,
+				DD42B79A25196322006B8FFB /* quote11.mp3 */,
+				DD42B79725196322006B8FFB /* quote12.mp3 */,
+				DD42B7A925196323006B8FFB /* quote13.mp3 */,
+				DD42B79825196322006B8FFB /* quote14.mp3 */,
+				DD42B79C25196322006B8FFB /* quote15.mp3 */,
+				DD42B7AA25196323006B8FFB /* quote16.mp3 */,
+				DD42B7A125196322006B8FFB /* quote17.mp3 */,
+				DD42B79F25196322006B8FFB /* quote18.mp3 */,
+				DD42B7A325196322006B8FFB /* quote19.mp3 */,
+				DD42B79525196322006B8FFB /* quote20.mp3 */,
+			);
+			path = Files;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +208,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD42B7C72519632F006B8FFB /* quote2.mp3 in Resources */,
+				DD42B7D62519632F006B8FFB /* quote17.mp3 in Resources */,
 				DD42B78D251962BB006B8FFB /* LaunchScreen.storyboard in Resources */,
+				DD42B7D92519632F006B8FFB /* quote20.mp3 in Resources */,
+				DD42B7D82519632F006B8FFB /* quote19.mp3 in Resources */,
+				DD42B7D22519632F006B8FFB /* quote13.mp3 in Resources */,
+				DD42B7D12519632F006B8FFB /* quote12.mp3 in Resources */,
+				DD42B7CD2519632F006B8FFB /* quote8.mp3 in Resources */,
+				DD42B7C92519632F006B8FFB /* quote4.mp3 in Resources */,
 				DD42B78A251962BB006B8FFB /* Assets.xcassets in Resources */,
+				DD42B7D72519632F006B8FFB /* quote18.mp3 in Resources */,
+				DD42B7D02519632F006B8FFB /* quote11.mp3 in Resources */,
+				DD42B7D52519632F006B8FFB /* quote16.mp3 in Resources */,
+				DD42B7D42519632F006B8FFB /* quote15.mp3 in Resources */,
+				DD42B7D32519632F006B8FFB /* quote14.mp3 in Resources */,
+				DD42B7CB2519632F006B8FFB /* quote6.mp3 in Resources */,
+				DD42B7C62519632F006B8FFB /* quote1.mp3 in Resources */,
+				DD42B7CE2519632F006B8FFB /* quote9.mp3 in Resources */,
+				DD42B7CF2519632F006B8FFB /* quote10.mp3 in Resources */,
+				DD42B7C52519632F006B8FFB /* quizes.json in Resources */,
+				DD42B7CA2519632F006B8FFB /* quote5.mp3 in Resources */,
 				DD42B788251962B6006B8FFB /* Main.storyboard in Resources */,
+				DD42B7C42519632F006B8FFB /* options.json in Resources */,
+				DD42B7CC2519632F006B8FFB /* quote7.mp3 in Resources */,
+				DD42B7C82519632F006B8FFB /* quote3.mp3 in Resources */,
+				DD42B7C32519632F006B8FFB /* MarchaImperial.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +244,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD42B7DB25196C7D006B8FFB /* GameOverViewController.swift in Sources */,
 				DD42B785251962B6006B8FFB /* ViewController.swift in Sources */,
+				DD42B7DD25196E86006B8FFB /* QuizManager.swift in Sources */,
 				DD42B781251962B6006B8FFB /* AppDelegate.swift in Sources */,
 				DD42B783251962B6006B8FFB /* SceneDelegate.swift in Sources */,
 			);
@@ -293,7 +401,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.viniciustsalomao.MovieQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -310,7 +418,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.viniciustsalomao.MovieQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
